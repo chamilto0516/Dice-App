@@ -3,6 +3,7 @@
 A modern, simple 2-dice roller application built for Android using Kotlin and Jetpack Compose. This project was developed as a learning exercise to explore declarative UI and custom graphics in Android.
 
 ## Features
+- **Dice Total Display:** The sum of both dice is calculated and displayed prominently above them.
 - **Dual Dice Roll:** Roll two six-sided dice simultaneously.
 - **Custom Graphics:** Dice faces are custom-drawn using Compose `Canvas`, featuring a classic dot layout for values 1 through 6.
 - **Material 3 Design:** Built with the latest Android design standards, including Edge-to-Edge support.
